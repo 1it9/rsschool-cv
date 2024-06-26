@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html>
 <head>
 <meta charset="UTF-8">
@@ -45,8 +45,6 @@ Discord nickname: nikita (@1it9) or ghoust9481 </li>
    <li>I have no work experience.</li>
    <li> Education 9 grades and 2 courses of Web and multimedia application developer (still studying).</li>
    <li> English d3 max.</li>
-
-
 </main>
 </body>
 <footer>
