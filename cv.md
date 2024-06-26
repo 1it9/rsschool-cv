@@ -50,6 +50,6 @@ Discord nickname: nikita (@1it9) or ghoust9481 </li>
 </main>
 </body>
 <footer>
-              <p> А вот и конец </p>
+              <p1> This right i win </p1>
 		 </footer>
     </html>
